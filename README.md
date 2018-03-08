@@ -16,3 +16,4 @@ You can also Browse for .txt file and do all the previous steps
 ![alt text](https://github.com/hananabilabd/Offline-Audio-Equalizer-Tone-Generator/blob/master/2.jpg)
 ![alt text](https://github.com/hananabilabd/Offline-Audio-Equalizer-Tone-Generator/blob/master/3.jpg)
 ![alt text](https://github.com/hananabilabd/Offline-Audio-Equalizer-Tone-Generator/blob/master/4.PNG)
+![alt text](https://github.com/hananabilabd/Offline-Audio-Equalizer-Tone-Generator/blob/master/dspic_shematic.jpg)
